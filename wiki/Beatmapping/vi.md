@@ -19,7 +19,7 @@ Click vào song, nó sẽ mở [beatmap editor](/wiki/beatmap_editor) và hộp 
 
 ### Song Setup
 
-_See also: [Song Setup](/wiki/Song_Setup)_
+_Tham khảo thêm: [Song Setup](/wiki/Song_Setup)_
 
 Khi tạo một [mapset](/wiki/mapset), bạn sẽ luôn luôn nhìn thấy hộp thoại này trước khi bắt đầu các thứ khác của beatmap editor.
 
@@ -32,7 +32,7 @@ Bước tiếp là thêm timing(có thể hiểu là canh chỉnh thời gian) c
 
 ### Timing
 
-_See also: [Timing](/wiki/Timing)_
+_Tham khảo thêm: [Timing](/wiki/Timing)_
 
 **Timing rất quan trọng**
 Chỉ cần một lỗi sai lặt vặt có thể khiến map của bạn sẽ không được rank.
@@ -43,15 +43,14 @@ Việc này sẽ giúp bạn (và cả một cộng đồng modding) tránh đư
 
 ### Compose
 
-_See also: [Compose](/wiki/Compose)_
+_Tham khảo thêm: [Compose](/wiki/Compose)_
 
 Thẻ Compose là nơi mà phần lớn bạn sử dụng để tạo các beatmap.
 Ở đây bạn có thể đặt các note (hit objects) và chuyển đổi các [hit sounds](/wiki/hit_sounds)
 
 ### Design
 
-_See also: [Design](/wiki/Design) and [Storyboarding](/wiki/Storyboarding)_
+_Thao khảo thêm: [Design](/wiki/Design) and [Storyboarding](/wiki/Storyboarding)_
 
 Thẻ Design là nơi bạn có thể thiết lập background image cho beatmap, thêm video hay/và tạo các storyboard.
 Bạn dùng Design nhiều hay không là phụ thuộc vào bạn, nếu bạn tình cờ làm về [SBS](/wiki/SBS) (storyboard scripting).
-
