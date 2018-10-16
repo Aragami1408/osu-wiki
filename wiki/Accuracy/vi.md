@@ -56,4 +56,17 @@ Do cách mà 2 mod [DT](/wiki/DT) (Double Time) và [HT](/wiki/HT) (Half Time) �
 
 #### Unstable Rate
 
-Chỉ số *Unstable Rate* thể hiển tính đồng nhất của thời gian của các số hit, chỉ số này càng thấp thì càng tốt(Các pro gamer thường có chỉ số này dưới 100). Hãy nhớ rằng *Unstable Rate* chỉ "cân đong đo đếm" tính nhấn quán chứ không phải độ chính xác
+Chỉ số *Unstable Rate* thể hiển tính đồng nhất của thời gian của các số hit, chỉ số này càng thấp thì càng tốt(Các pro gamer thường có chỉ số này dưới 100). Hãy nhớ rằng *Unstable Rate* chỉ "cân đong đo đếm" tính nhấn quán chứ không phải độ chính xác. Vì thế tính nhất quán trong việc hit 15ms hoặc sớm hơn là tính nhất quán "đúng lúc". Công thức cơ bản là độc lệch chuẩn của các lỗi lần truy cập (mili giây) nhân với 10.
+
+### Spin
+*Note: Spin chỉ được sử dụng trong [osu!standard](/wiki/osu!standard).*
+
+Ngoài độ chính xác, một số dữ kiện liên quan đến spinners cũng được thấy trong cùng một tooltip
+
+#### Speed
+
+Tốc độ thể hiện RPM(vòng quay trên phút) trung bình trong tất cả các spinner trong một beatmap. Max là RPM cao nhất mà đạt được trong một map.
+
+#### Unstable Rate
+
+Unstable Rate thể hiện mức trung bình so với độ lệch tối đa. Thấp hơn thì sẽ tốt hơn. Công thức chưa rõ
