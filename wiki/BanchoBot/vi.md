@@ -2,13 +2,13 @@
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
-Banchobot là một bot trợ giúp người chơi trong chat bằng cách hiển thị thông tin rõ ràng và thông báo liên quan đến game. Nó được lập trình bởi [Echo49](/users/431) và là owner của [Bancho IRC](/wiki/Internet_Relay_Chat). BanchoBot thậm chí còn có cả profile cho chính nó: [osu! profile](/users/3) and [Tài khoản twitter](https://twitter.com/banchoboat)!
+Banchobot là một bot trợ giúp người chơi trong chat bằng cách hiển thị thông tin rõ ràng và thông báo liên quan đến game. Nó được lập trình bởi [Echo49](/users/431) và là owner của [Bancho IRC](/wiki/Internet_Relay_Chat). BanchoBot thậm chí còn có cả profile cho chính nó: [osu! profile](/users/3) và [Tài khoản twitter](https://twitter.com/banchoboat)!
 
 ## Các lệnh
 
 *Danh sách các dòng lệnh trong osu! client có thể tham khảo ở: [Chat Console](/wiki/Chat_Console#commands-list)*
 
-Lệnh của BanchoBot có prefix là "!". Các lệnh này sử dụng được trong game và IRC. Chúng có thể dùng ở multiplayer chat và PM cho BanchoBot. Nếu là người dùng thường gửi message cho BanchoBot ở chat công cộng, người dùng còn lại sẽ không thấy nó, nhưng phản hồi chỉ có thể thấy trong PM.
+Lệnh của BanchoBot phải bắt đầu là dấu chấm than (dấu !). Các lệnh này sử dụng được trong game và IRC. Chúng có thể dùng ở multiplayer chat và PM cho BanchoBot. Nếu là người dùng thường gửi message cho BanchoBot ở chat công cộng, người dùng còn lại sẽ không thấy nó, nhưng phản hồi chỉ có thể thấy trong PM.
 
 Bạn vẫn có thể sử dụng `/bb` trong client để mở tab "BanchoBot" và gửi được các lệnh một cách nhanh chóng.
 
@@ -46,7 +46,7 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 !ROLL <number>
 ```
 
-Rút ra một số bất kì từ 1 đến `<number>` (Mặc định là 100)
+Cho ra một số bất kì từ 1 đến `<number>` (Mặc định là 100)
 
 #### Thí dụ cách dùng
 
@@ -128,7 +128,7 @@ Tama: ok
 
 ### REPORT
 
-*Notice: Nếu bạn muốn report ban quản trị, hãy gửi mail cho [support@ppy.sh](mailto:support@ppy.sh)*
+*Notice: Nếu bạn muốn report về ban quản trị, hãy gửi mail cho [support@ppy.sh](mailto:support@ppy.sh)*
 
 *Note: Bạn có thể dùng user card để report user đó*
 
@@ -137,7 +137,7 @@ Tama: ok
 ```
 
 
-*Notice: Tên người dùng có dấu cách sẽ thay thế bằng dấu gạch dưới (`_`)*
+*Notice: Tên người dùng có dấu cách sẽ thay thế bằng dấu gạch dưới ( `_` )*
 
 Gửi report tới [Global Moderation Team](/wiki/Global_Moderation_Team) hoặc [Language Moderators](/wiki/Language_Moderators).
 
